@@ -6,13 +6,13 @@ A lean product design process in markdown that enables cross-functional teams to
 
 ### First choose a workflow
 
-Decide whether you want to work in the [source files](https://github.com/ryanallen/designDoc/tree/main/docs), which let you use [node](https://nodejs.org/en/), [npm](https://www.npmjs.com/), and [docbits](https://github.com/ryanallen/docbits) to keep your design doc [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and maintainable...  
+Decide whether you want to work in the [source files](https://github.com/huntermoranville/designDoc/tree/main/docs), which let you use [node](https://nodejs.org/en/), [npm](https://www.npmjs.com/), and [docbits](https://github.com/huntermoranville/docbits) to keep your design doc [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and maintainable...  
 
-or the [distribution docs](https://github.com/ryanallen/designDoc/tree/main/dist/docs) which are built from the source files and don't require a [software build process](https://en.wikipedia.org/wiki/Software_build).
+or the [distribution docs](https://github.com/huntermoranville/designDoc/tree/main/dist/docs) which are built from the source files and don't require a [software build process](https://en.wikipedia.org/wiki/Software_build).
 
 ### Next, use this template
 
-[CLICK TO USE THIS TEMPLATE](https://github.com/ryanallen/designDoc/generate) which will make a copy of this design doc repository, or manually save the files you need from this repo (right click the links below and 'save link as').  
+[CLICK TO USE THIS TEMPLATE](https://github.com/huntermoranville/designDoc/generate) which will make a copy of this design doc repository, or manually save the files you need from this repo (right click the links below and 'save link as').  
 
 Don't forget to hit that ⭐ button <3.
 
