@@ -11,7 +11,7 @@ Define who will be working on this project and what will they be doing.
 
 | Name | Responsibility |
 | --- | --- |
-|  |  |
+| hunter | designer |
   
 ---
 ### Roadmap  
